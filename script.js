@@ -11,7 +11,7 @@ const jsonData = [
     },
     {
         "question": "Where are Aboriginal people historically from?",
-        "answer": "Historically, Aboriginal people are from mainland Australia and Tasmania"
+        "answer": "Aboriginal people are from mainland Australia and Tasmania"
     },
     {
         "question": "When did the archaeological record suggest that Aboriginal peoples arrived in Australia?",
@@ -35,7 +35,7 @@ const jsonData = [
     },
     {
         "question": " Why are Indigenous cultures considered an important part of Australia's national identity?",
-        "answer": "Indigenous cultures are considered an important part of Australia's national identity due to their rich history, unique traditions, and significant contributions to the country's cultural heritage."
+        "answer": "Indigenous cultures are important due to their rich history, unique traditions, and significant contributions to the country's cultural heritage."
     },
     {
         "question": "When did European settlement begin in Australia, and what event marked the beginning?",
@@ -43,7 +43,7 @@ const jsonData = [
     },
     {
         "question": "Why did the British Government transport convicts to the new colony of New South Wales?",
-        "answer": "British laws were harsh, and the jails couldn't hold the large number of people imprisoned for their crimes. To address this issue, convicts were transported to the new colony."
+        "answer": "British laws were harsh, and the jails couldn't hold the large number of people. To address this issue, convicts were transported to the new colony."
     },
     {
         "question": "Who was the first Governor of the colony of New South Wales, and what was his role?",
@@ -110,10 +110,6 @@ const jsonData = [
         "answer": "More than 100 distinct Aboriginal and Torres Strait Islander languages are valued as part of Australia's linguistic and cultural heritage."
     },
     {
-        "question": "What is the Commonwealth of Australia?",
-        "answer": "The Commonwealth of Australia is a federation of states and territories."
-    },
-    {
         "question": "How many states and territories does Australia have?",
         "answer": "Australia has six states and two mainland territories."
     },
@@ -163,7 +159,7 @@ const jsonData = [
     },
     {
         "question": "What is the capital city of New South Wales, and what is notable about it?",
-        "answer": "The capital city of New South Wales is Sydney, and it is the nation's largest city. The Sydney Harbour Bridge and Opera House are national icons located there."
+        "answer": "Sydney, the capital of New South Wales, is Australia's largest city, home to iconic landmarks like the Sydney Harbour Bridge and Opera House."
     },
     {
         "question": "What is the smallest of the mainland states in Australia?",
@@ -172,10 +168,6 @@ const jsonData = [
     {
         "question": "What significant event led to the creation of many fine buildings in Victoria?",
         "answer": "The gold rush of the 1850s led to the creation of many fine buildings in Victoria."
-    },
-    {
-        "question": "What is the capital city of Victoria?",
-        "answer": "The capital city of Victoria is Melbourne."
     },
     {
         "question": "What are some of Victoria's notable icons?",
@@ -187,7 +179,7 @@ const jsonData = [
     },
     {
         "question": "What is the capital city of Queensland, and what geographical features are significant in the state?",
-        "answer": "The capital city of Queensland is Brisbane. The state is known for the Torres Strait Islands to the north and the Great Barrier Reef along its eastern coast."
+        "answer": "Queensland's capital is Brisbane, known for the Torres Strait Islands to the north and the Great Barrier Reef along its eastern coast."
     },
     {
         "question": "Describe the landscapes of Queensland.",
@@ -207,15 +199,11 @@ const jsonData = [
     },
     {
         "question": "What are some notable characteristics of South Australia?",
-        "answer": "South Australia has a rugged coastline and is known for its famous wine regions. The capital city, Adelaide, showcases fine colonial architecture."
-    },
-    {
-        "question": "What are some icons associated with South Australia?",
-        "answer": "South Australia's icons include the Barossa Valley and the Flinders Ranges."
+        "answer": "South Australia icons include the Barossa Valley and the Flinders Ranges and boasts a rugged coastline, famous wine regions, and Adelaide, its capital, known for colonial architecture."
     },
     {
         "question": "How is Tasmania separated from the mainland, and what is its capital city?",
-        "answer": "Tasmania is separated from the mainland by the Bass Strait. Its capital city is Hobart."
+        "answer": "Tasmania, separated by the Bass Strait, has Hobart as its capital."
     },
     {
         "question": "Describe Tasmania's landscapes.",
@@ -227,7 +215,7 @@ const jsonData = [
     },
     {
         "question": "Where is the Australian Capital Territory located, and what city is situated there?",
-        "answer": "The Australian Capital Territory is located between Sydney and Melbourne. The city situated there is Canberra"
+        "answer": "The Australian Capital Territory, situated between Sydney and Melbourne, houses the city of Canberra."
     },
     {
         "question": "Which national institutions can be found in Canberra, the capital city of the Australian Capital Territory?",
@@ -247,7 +235,7 @@ const jsonData = [
     },
     {
         "question": "What is a \"Welcome to Country\"?",
-        "answer": "A \"Welcome to Country\" is a cultural practice performed by an Aboriginal or Torres Strait Islander custodian of the local region. It involves welcoming visitors to their traditional land."
+        "answer": "A cultural practice by Aboriginal or Torres Strait Islander custodians welcoming visitors to their traditional land."
     },
     {
         "question": "What was the traditional purpose of a \"Welcome to Country\"?",
@@ -263,7 +251,7 @@ const jsonData = [
     },
     {
         "question": "What is an \"Acknowledgement of Country\"?",
-        "answer": "An \"Acknowledgement of Country\" is an opportunity to recognize that the gathering is taking place on Aboriginal or Torres Strait Islander land. It involves paying respect to Traditional Custodians, particularly Elders past and present, and acknowledging Aboriginal and Torres Strait Islander peoples in attendance."
+        "answer": "An opportunity to acknowledge that the gathering is on Indigenous land, showing respect to Traditional Custodians, including past and present Elders, and recognizing Indigenous attendees."
     },
     {
         "question": "When is an \"Acknowledgement of Country\" typically delivered during events?",
@@ -271,7 +259,7 @@ const jsonData = [
     },
     {
         "question": "Who can deliver an \"Acknowledgement of Country\"?",
-        "answer": "Anyone can deliver an \"Acknowledgement of Country.\" In meetings or events, this task is generally done by the Chair or Master of Ceremonies."
+        "answer": "Anyone can give an 'Acknowledgement of Country,' but typically, it's the Chair or Master of Ceremonies who does so in meetings or events."
     },
     {
         "question": "What is the purpose of these practices?",
@@ -283,39 +271,35 @@ const jsonData = [
     },
     {
         "question": "Is Australia Day a public holiday?",
-        "answer": "Yes, Australia Day is a public holiday in every state and territory in Australia."
+        "answer": "Australia Day is a public holiday in every state and territory in Australia."
     },
     {
         "question": "What event does Australia Day commemorate?",
-        "answer": "Australia Day commemorates the anniversary of the arrival of the First Fleet from Great Britain in 1788."
+        "answer": "Australia Day marks the 1788 arrival of the First Fleet from Britain."
     },
     {
         "question": "How do communities across Australia typically observe Australia Day?",
-        "answer": "On Australia Day, communities across Australia reflect on the nation's history and the contributions of its people to shared achievements."
+        "answer": "On Australia Day, communities reflect on the nation's history and contributions to shared achievements."
     },
     {
         "question": "What is the significance of Australia Day as a public holiday?",
-        "answer": "Australia Day is the biggest annual public holiday in Australia, and it's a day to acknowledge and celebrate the contribution of every Australian to the contemporary and dynamic nation."
+        "answer": "Australia Day is the largest annual public holiday, celebrating every Australian's contribution to the dynamic nation."
     },
     {
         "question": "Who does Australia Day celebrate and acknowledge?",
-        "answer": "Australia Day celebrates and acknowledges the contribution of every Australian, from the Aboriginal and Torres Strait Islander peoples who have been here for approximately 65,000 years, to those who have lived here for generations, and those who have migrated to the country."
+        "answer": "Celebrates and acknowledges the contributions of all Australians, spanning from Indigenous communities with a 65,000-year history to multi-generational residents and newcomers."
     },
     {
         "question": "How is Australia Day marked across the country?",
-        "answer": "Australia Day is marked by events and celebrations across the nation, including special citizenship ceremonies."
+        "answer": "Australia Day features nationwide events, including citizenship ceremonies."
     },
     {
         "question": "What special event takes place during Australia Day celebrations in Canberra?",
-        "answer": "During Australia Day celebrations, the Prime Minister announces the Australian of the Year Awards in Canberra."
+        "answer": "The Prime Minister announces the Australian of the Year Awards in Canberra."
     },
     {
         "question": "When is Anzac Day commemorated each year?",
         "answer": "Anzac Day is commemorated on 25 April every year."
-    },
-    {
-        "question": "What does \"Anzac\" stand for in Anzac Day?",
-        "answer": "\"Anzac\" stands for the Australian and New Zealand Army Corps."
     },
     {
         "question": "Why is Anzac Day named after the Anzacs?",
@@ -323,7 +307,7 @@ const jsonData = [
     },
     {
         "question": "How is Anzac Day observed?",
-        "answer": "Anzac Day is a solemn day of remembrance when Australians remember the sacrifice of all those who served and died in wars, conflicts, and peacekeeping operations."
+        "answer": "A solemn day to remember the sacrifice of those who served and died in wars and conflicts."
     },
     {
         "question": "Besides remembering those who served and died, what else does Anzac Day honor?",
@@ -335,7 +319,7 @@ const jsonData = [
     },
     {
         "question": "What is located in the top left corner of the Australian National Flag, and what does it represent?",
-        "answer": "The 'Union Jack,' which is the flag of the United Kingdom, is in the top left corner. It represents Australia's history of British settlement and the laws and institutions inherited from that period."
+        "answer": "The 'Union Jack,' representing British settlement and its legacy, is in the top left corner of Australia's flag."
     },
     {
         "question": "What is located just under the Union Jack on the Australian National Flag, and what does it symbolize?",
@@ -391,7 +375,7 @@ const jsonData = [
     },
     {
         "question": "What does the Commonwealth Coat of Arms represent?",
-        "answer": "The Commonwealth Coat of Arms is the official symbol of the Commonwealth of Australia, representing national unity and identifying the authority and property of the Commonwealth."
+        "answer": "The official symbol of the Commonwealth of Australia, signifying national unity and governmental authority."
     },
     {
         "question": "What does the shield in the center of the Commonwealth Coat of Arms symbolize?",
@@ -443,23 +427,15 @@ const jsonData = [
     },
     {
         "question": "What type of government does Australia have?",
-        "answer": "Australia has a parliamentary democracy as its system of government."
+        "answer": "Australia has a parliamentary democracy government system."
     },
     {
         "question": "Where does the power of the government in Australia come from?",
-        "answer": "The power of the government in Australia comes from the Australian people, as they vote for representatives to serve in parliament."
-    },
-    {
-        "question": "How do Australian citizens contribute to the government's authority?",
-        "answer": "Australian citizens contribute to the government's authority by electing representatives to parliament."
+        "answer": "In Australia, government power stems from the people who elect representatives to parliament."
     },
     {
         "question": "How do representatives in the Australian parliament remain accountable to the people?",
         "answer": "Representatives in the Australian parliament are accountable to the people through elections, where they must answer for the decisions they make."
-    },
-    {
-        "question": "How are all Australians treated under the law?",
-        "answer": "All Australians are treated as equals under the law."
     },
     {
         "question": "What does the Rule of Law signify?",
@@ -467,7 +443,7 @@ const jsonData = [
     },
     {
         "question": "Who is required to obey Australia's laws?",
-        "answer": "The principle of the Rule of Law applies to everyone, including individuals who hold positions of power in the Australian community. This encompasses government officials, community leaders, religious figures, business individuals, and even law enforcement."
+        "answer": "The Rule of Law applies universally, encompassing government officials, community leaders, religious figures, business individuals, and law enforcement in Australia."
     },
     {
         "question": "What is the general sentiment of Australians regarding their country?",
@@ -487,11 +463,11 @@ const jsonData = [
     },
     {
         "question": "How are Australians expected to treat each other?",
-        "answer": "Australians are expected to treat each other with dignity and respect, irrespective of factors such as race, country of origin, gender, sexual orientation, marital status, age, disability, heritage, culture, politics, wealth, or religion."
+        "answer": "Australians are expected to treat each other with dignity and respect, regardless of factors like race, gender, orientation, age, disability, heritage, politics, wealth, or religion."
     },
     {
         "question": "What does freedom of speech represent in Australia?",
-        "answer": "Freedom of speech is a fundamental Australian value that forms the basis of our democratic system. It enables people to freely express their thoughts and engage in discussions"
+        "answer": "Freedom of speech is a core Australian value that underpins our democracy, allowing people to openly express their thoughts and engage in discussions."
     },
     {
         "question": "What does freedom of speech allow individuals to do?",
@@ -499,7 +475,7 @@ const jsonData = [
     },
     {
         "question": "How does freedom of speech enable people to interact with the government?",
-        "answer": "People can use freedom of speech to criticize the government, peacefully protest against government decisions, and advocate for changes to laws, as long as they are abiding by Australian laws."
+        "answer": "Freedom of speech permits criticism, peaceful protests, and advocating for legal changes against the government, as long as they are abiding by Australian laws."
     },
     {
         "question": "What does freedom of expression encompass?",
@@ -519,7 +495,7 @@ const jsonData = [
     },
     {
         "question": "How does freedom of association manifest in Australia?",
-        "answer": "Australians have the freedom to join legal organizations, including political parties, trade unions, religious, cultural, or social groups. This also means individuals have the right not to join such organizations and cannot be compelled to do so."
+        "answer": "Australians have the freedom to join or not join legal organizations, including political parties, trade unions, and social groups, without compulsion."
     },
     {
         "question": "What does freedom of association allow Australians to do?",
@@ -527,7 +503,7 @@ const jsonData = [
     },
     {
         "question": "Are there any limitations to freedom of association?",
-        "answer": "Yes, while exercising freedom of association, individuals must always adhere to Australian laws. This implies that gatherings must be peaceful and should not cause harm to any person or damage to property."
+        "answer": "While exercising freedom of association, individuals must abide by Australian laws, ensuring peaceful gatherings without harm to people or property."
     },
     {
         "question": "What is Australia's religious heritage?",
@@ -567,7 +543,7 @@ const jsonData = [
     },
     {
         "question": " What does the concept of a 'fair go' mean?",
-        "answer": "The concept of a 'fair go' in Australia signifies that individuals' achievements in life should be a result of their talents, hard work, and effort, rather than being influenced by their wealth or background."
+        "answer": "In Australia, the 'fair go' concept means that individuals' success should stem from their talents, hard work, and effort, rather than their wealth or background."
     },
     {
         "question": "What is the purpose of emphasizing equal opportunity and a 'fair go'?",
@@ -659,7 +635,7 @@ const jsonData = [
     },
     {
         "question": "How can an Australian citizen receive assistance while overseas?",
-        "answer": "While overseas, you can request help from Australian government officials at embassies, high commissions, or consulates in various countries. They can offer assistance during emergencies, civil unrest, natural disasters, and other times of need."
+        "answer": "When abroad, you can seek help from Australian government officials at embassies, high commissions, or consulates, who provide assistance during emergencies, unrest, disasters, and other times of need."
     },
     {
         "question": " What types of assistance can Australian officials provide to citizens overseas?",
@@ -679,27 +655,23 @@ const jsonData = [
     },
     {
         "question": "Why is paying taxes important for Australian citizens?",
-        "answer": "Paying taxes is a vital way for citizens to directly contribute to the Australian community, and it is required by law. Taxes are paid out of earned income from jobs, businesses, or investments, and they support various services and infrastructure."
+        "answer": "Working and paying taxes help citizens support the government in providing vital services that contribute to Australia's peace and prosperity."
     },
     {
         "question": "What does tax contribute to in Australia?",
         "answer": "Taxes are crucial for providing services like government-funded healthcare and education, defense, transportation infrastructure (roads and railways), and social security."
     },
     {
-        "question": "How does working and paying taxes benefit the Australian community?",
-        "answer": "By working and paying taxes, citizens support the government in providing essential services to the Australian community. These services contribute to making Australia a peaceful and prosperous nation."
-    },
-    {
         "question": "What is the role of the Australian Electoral Commission (AEC)?",
-        "answer": "The Australian Electoral Commission (AEC) is a Commonwealth agency responsible for organizing federal elections and referendums, as well as maintaining the Commonwealth electoral roll. It operates independently of the government, and its decisions are not influenced by political parties or government officials."
+        "answer": "The Australian Electoral Commission (AEC) independently organizes federal elections, referendums, and maintains the electoral roll, free from political party or government influence."
     },
     {
         "question": "How does the AEC ensure the secrecy of voting?",
-        "answer": "In Australia, voting in an election is conducted by a secret ballot, ensuring that you can freely and safely vote for any candidate. The identity of your chosen candidate remains confidential, unless you voluntarily disclose it."
+        "answer": "In Australia, elections feature a secret ballot, allowing you to freely and safely vote for any candidate, with your choice remaining confidential unless you choose to disclose it."
     },
     {
         "question": "What happens if someone doesn't vote in an election without a valid reason?",
-        "answer": "If you don't vote in an election without a valid reason, you may be required to pay a fine. Compulsory voting is in place to ensure that citizens have a voice in selecting their representatives in parliament."
+        "answer": "Compulsory voting in Australia requires citizens to vote, or they may face fines. This system ensures everyone has a say in selecting their parliamentary representatives."
     },
     {
         "question": "How can Australian citizens voice their concerns about government policy?",
@@ -743,23 +715,23 @@ const jsonData = [
     },
     {
         "question": "What key bodies did the Australian Constitution establish?",
-        "answer": "The Australian Constitution established the Parliament of the Commonwealth of Australia, comprising a House of Representatives and a Senate. It also established the High Court of Australia, responsible for applying and interpreting the country's laws."
+        "answer": "The Australian Constitution created the Commonwealth Parliament, with a House of Representatives and a Senate, as well as the High Court of Australia, responsible for interpreting and applying the nation's laws."
     },
     {
         "question": "How can the Australian Constitution be amended?",
-        "answer": "The Australian people can modify the Australian Constitution by participating in referendums. For instance, the 1967 Referendum, where over 90% of Australians voted 'Yes' to include Aboriginal peoples in the Census."
+        "answer": "Australians can amend the Constitution through referendums, like the 1967 one where over 90% voted 'Yes' to include Aboriginal peoples in the Census."
     },
     {
         "question": "What is required for a change to the Australian Constitution in a referendum?",
-        "answer": "To alter the Australian Constitution through a referendum, a 'double majority' is necessary. This means that both a majority of voters in a majority of states and a majority of voters across the entire nation must support the change."
+        "answer": "To change the Australian Constitution via referendum, a 'double majority' is required, meaning a majority of voters in most states and a majority of voters nationwide must approve the change."
     },
     {
         "question": "How does the Australian Constitution distribute governmental power?",
-        "answer": "The Australian Constitution divides governmental power among three branches: legislative (Parliament), executive (Prime Minister and Cabinet), and judicial (judges), preventing concentration of power in one person or group."
+        "answer": "The Australian Constitution splits power among three branches: legislative (Parliament), executive (Prime Minister and Cabinet), and judicial (judges), preventing power concentration."
     },
     {
         "question": "What is legislative power in the Australian government?",
-        "answer": "Legislative power involves creating laws. The Parliament holds the authority to establish and modify laws in Australia. Parliament consists of elected representatives chosen by the Australian people."
+        "answer": "Legislative power in Australia, held by Parliament, involves creating and changing laws through elected representatives chosen by the people."
     },
     {
         "question": "What is executive power in the Australian government?",
@@ -791,7 +763,7 @@ const jsonData = [
     },
     {
         "question": "What type of government is Australia?",
-        "answer": "Australia is a constitutional monarchy, where the King serves as the Head of State, bound by the Constitution. However, as the King doesn't reside in Australia, his powers are vested in the Governor-General."
+        "answer": "Australia is a constitutional monarchy, with the King as Head of State, but the Constitution binds his powers. As the King doesn't reside in Australia, the Governor-General exercises these powers."
     },
     {
         "question": "How does the King's role relate to Australia's Constitution?",
@@ -815,7 +787,7 @@ const jsonData = [
     },
     {
         "question": "What are some key responsibilities of the Governor-General?",
-        "answer": "The Governor-General's responsibilities include signing Bills passed by the Australian Parliament into law (Royal Assent), performing ceremonial duties, approving appointments in the Australian Government, starting federal election processes, and serving as the Commander-in-Chief of the Australian Defence Force."
+        "answer": "The Governor-General signs bills into law (Royal Assent), handles ceremonial duties, approves government appointments, initiates federal elections, and serves as the Commander-in-Chief of the Australian Defence Force."
     },
     {
         "question": "What are 'reserve powers' of the Governor-General?",
@@ -895,7 +867,7 @@ const jsonData = [
     },
     {
         "question": "What is the primary role of the House of Representatives?",
-        "answer": "The primary role of the House of Representatives is to consider, debate, and vote on proposals for new laws or changes to the laws, as well as to discuss matters of national importance."
+        "answer": "The House of Representatives' main role is to debate, vote on, and discuss proposals for new laws or changes to existing ones, along with national matters of significance."
     },
     {
         "question": "What is the Senate?",
@@ -911,7 +883,7 @@ const jsonData = [
     },
     {
         "question": "What are the responsibilities of senators in the Senate?",
-        "answer": "Senators in the Senate also engage in considering, debating, and voting on new laws or amendments to existing laws. Additionally, they discuss matters of national importance."
+        "answer": "Senators in the Senate also participate in considering, debating, and voting on new laws or amendments, and they discuss national matters of importance."
     },
     {
         "question": "What does each state government have?",
@@ -939,7 +911,7 @@ const jsonData = [
     },
     {
         "question": "How are representatives elected in state and territory elections?",
-        "answer": "Australian citizens participate in state and territory elections to elect representatives for their respective areas. These representatives become members of the state or territory parliament."
+        "answer": "Australian citizens vote in state and territory elections to choose representatives who become members of the respective parliament."
     },
     {
         "question": "What are local government areas in Australia?",
@@ -955,27 +927,27 @@ const jsonData = [
     },
     {
         "question": "What is the Australian Government is responsible for?",
-        "answer": "taxation\nnational economic management\nimmigration and citizenship\nemployment assistance\npostal services and the communications network\nsocial security (pensions and family support)\ndefence\ntrade and commerce\nairports and air safety\nforeign affairs (relations with other countries). "
+        "answer": "Taxation, national economic management, immigration and citizenship, employment assistance, postal services and the communications network, social security encompassing pensions and family support, defense, trade and commerce, airports and air safety, and foreign affairs concerning relations with other countries."
     },
     {
         "question": "What are state and territory governments are primarily responsible for?",
-        "answer": "hospitals and health services\nschools\nroads and railways\nforestry\npolice and ambulance services\npublic transport. "
+        "answer": "Hospitals and health services, schools, roads and railways, forestry, police and ambulance services, and public transport are all essential components of public infrastructure and services."
     },
     {
         "question": "What are local governments (and the Australian Capital Territory Government) are responsible for?",
-        "answer": "street signs, traffc controls\nlocal roads, footpaths, bridges\ndrains\nparks, playgrounds, swimming pools, sports grounds\ncamping grounds and caravan parks\nfood and meat inspection\nnoise and animal control\nrubbish collection\nlocal libraries, halls and community centres\ncertain child-care and aged-care issues\nbuilding permits\nsocial planning\nlocal environmental issues. "
+        "answer": "Street signs and traffic controls, local roads, footpaths, bridges, drains, parks, playgrounds, swimming pools, sports grounds, camping grounds, and caravan parks, food and meat inspection, noise and animal control, rubbish collection, local libraries, halls, and community centers, certain child-care and aged-care issues, building permits, social planning, and local environmental issues are all part of the diverse responsibilities handled by local authorities."
     },
     {
         "question": "What role do political parties play in the way Australia is governed? ",
-        "answer": "A political party is a group of people who share similar ideas about how a country should be governed. They work together to have the party\u2019s ideas turned into laws. The main political parties in Australia are the Liberal Party of Australia, the Australian Labor Party, the Nationals and the Australian Greens.\nMost parliamentarians belong to political parties. Some do not belong to any political party, and they are called \u2018independents\u2019. In Australia, people are free to join a political party if they choose. "
+        "answer": "A political party is a group with shared governance ideas, striving to turn these ideas into laws. Australia's main political parties include the Liberal Party, Australian Labor Party, Nationals, and Australian Greens. Most parliamentarians are party members, while some are independents. Australians are free to join a political party if they wish."
     },
     {
         "question": "How is the Australian Government formed? ",
-        "answer": "After a federal election, the Australian Government is generally formed by the party or coalition of parties with the\nmajority of members in the Houses of Representatives. The leader of this party becomes the leader of the\nAustralian Government: the Prime Minister.\nAfter a federal election, the party or coalition of parties with the second largest number of members in the\nHouse of Representatives forms the Opposition. Its leader is called the Leader of the Opposition.\nThe Prime Minister recommends members of the House of Representatives or Senators to become ministers in\nthe Australian Government. The Governor-General approves the appointment of the Prime Minister and ministers.\nGovernment ministers are responsible for an area of government (called a portfolio), such as employment,\nIndigenous Affairs or the Treasury. Ministers with the most important portfolios make up the Cabinet, which is the\nkey decision making body of government. "
+        "answer": "Following a federal election, the Australian Government is typically led by the party or coalition with the majority in the House of Representatives. Their leader becomes the Prime Minister. The party or coalition with the second-largest representation forms the Opposition, led by the Leader of the Opposition. The Prime Minister recommends House of Representatives or Senators to become government ministers, subject to approval by the Governor-General. Ministers oversee specific government areas, known as portfolios, such as employment, Indigenous Affairs, or the Treasury. The most significant portfolio holders form the Cabinet, the primary decision-making body in government."
     },
     {
         "question": "How are laws made?",
-        "answer": "The Australian Parliament has the power to make or change laws in Australia to beneft the nation. If a member of the Australian Parliament proposes to introduce a new law or\nchange an existing one, this proposal is called a \u2018Bill\u2019.\nThe House of Representatives and the Senate consider,\ndebate and vote on whether they agree with the Bill.\nIf the majority of members in each House of Parliament agree to the Bill,\nit goes to the Governor-General.\nThe Governor-General signs a Bill so that it becomes law.\nThis is called \u2018Royal Assent\u2019. "
+        "answer": "The Australian Parliament can create or modify laws for the nation's benefit. When a member proposes a new law or change, it's called a 'Bill.' Both the House of Representatives and the Senate review, discuss, and vote on the Bill. If most members in each house agree, it goes to the Governor-General, who signs it into law, known as 'Royal Assent.'"
     },
     {
         "question": "What is the nature of the courts in Australia?",
@@ -1007,7 +979,7 @@ const jsonData = [
     },
     {
         "question": " How is a jury used in Australia's legal system?",
-        "answer": "In some cases, a jury is used to decide whether a person has broken the law. A jury is made up of ordinary Australian citizens randomly selected from the population, and their role is to determine whether the person is innocent or guilty based on the evidence presented."
+        "answer": "Sometimes, a jury of randomly selected Australian citizens decides if someone broke the law, determining innocence or guilt based on presented evidence."
     },
     {
         "question": "What role does a judge play in a trial involving a jury?",
@@ -1015,7 +987,7 @@ const jsonData = [
     },
     {
         "question": "What is the role of the police in Australia?",
-        "answer": "The police in Australia are responsible for maintaining peace, order, and public safety. They protect life and property and have the authority to arrest individuals suspected of breaking the law."
+        "answer": "Australian police ensure peace, order, and public safety, protecting lives and property, with the authority to arrest suspected lawbreakers."
     },
     {
         "question": "Are the police independent of the government?",
@@ -1023,7 +995,7 @@ const jsonData = [
     },
     {
         "question": "Can the police arrest someone if they believe they have broken the law?",
-        "answer": "es, if the police believe that someone has broken the law, they have the authority to arrest Ythem and bring them before a court of law."
+        "answer": "Yes, if the police believe that someone has broken the law, they have the authority to arrest Ythem and bring them before a court of law."
     },
     {
         "question": "Do the police determine whether a person is guilty or not?",
@@ -1031,43 +1003,43 @@ const jsonData = [
     },
     {
         "question": "Are there different police forces in Australia?",
-        "answer": "Yes, each state and the Northern Territory have their own police forces responsible for dealing with crimes under state and territory laws. Additionally, there is a national police force called the Australian Federal Police (AFP) responsible for federal law enforcement."
+        "answer": "Each state, the Northern Territory, and the national level have their own police forces. States and territories handle crimes under their laws, while the Australian Federal Police (AFP) manage federal law enforcement."
     },
     {
         "question": "What types of crimes does the Australian Federal Police (AFP) handle?",
-        "answer": "The AFP investigates crimes against federal laws, including drug trafficking, crimes related to national security, and environmental crimes. It also handles general police work in the Australian Capital Territory."
+        "answer": "The AFP investigates federal law violations like drug trafficking, national security offenses, and environmental crimes, as well as general policing duties in the Australian Capital Territory."
     },
     {
         "question": "What is the relationship between the police and the community in Australia?",
-        "answer": "The police and the community in Australia have a positive relationship. Individuals can report crimes and seek assistance from local police, fostering a sense of safety and security within the community."
+        "answer": "In Australia, there's a positive relationship between police and the community. People can report crimes and seek help from local police, creating a sense of community safety and security."
     },
     {
         "question": "Is bribery of the police a crime in Australia?",
-        "answer": "es, bribery of the police is considered a serious crime in Australia. Offering or giving a bribe to a police officer is against the law."
+        "answer": "Bribing police is a severe offense. Offering or giving a bribe to a police officer is illegal."
     },
     {
         "question": "Is it important to be familiar with the laws in Australia?",
-        "answer": "Yes, it's essential to be familiar with the laws in Australia. Ignorance of the law is not an excuse, and breaking a law you didn't know about can still lead to charges."
+        "answer": "Knowing Australian laws is crucial. Ignorance of the law is not an excuse, and breaking an unfamiliar law can still result in charges."
     },
     {
         "question": "What are some of the most serious crimes in Australia?",
-        "answer": "Some of the most serious crimes in Australia include murder, assault, sexual assault, violence against people or property, armed robbery, theft, illegal drug possession, fraud, and dangerous driving."
+        "answer": "Serious crimes in Australia encompass murder, assault, sexual assault, violence, armed robbery, theft, drug possession, fraud, and dangerous driving."
     },
     {
         "question": "Is violence towards another person considered a serious crime in Australia?",
-        "answer": "Yes, violence towards another person is illegal and considered a very serious crime in Australia. This includes violence within relationships and marriages, which is known as domestic or family violence."
+        "answer": "Indeed, violence against others, including within relationships and marriages (known as domestic or family violence), is illegal and a serious crime in Australia."
     },
     {
         "question": "What is domestic and family violence?",
-        "answer": "Domestic and family violence includes behavior or threats aimed at controlling a partner by causing fear or threatening their safety. It can involve hitting, isolating family members, or threatening children or pets."
+        "answer": "Domestic and family violence includes controlling behavior, threats, physical harm, isolation, and threats to children or pets within a relationship."
     },
     {
         "question": "Is domestic and family violence accepted in Australia?",
-        "answer": "No, domestic and family violence is not accepted in Australia and is against the law. Regardless of gender, anyone who commits these crimes can face jail time."
+        "answer": "Australia does not tolerate domestic and family violence, and it's illegal. Regardless of gender, those who commit these crimes can be imprisoned."
     },
     {
         "question": "What should you do if you're in danger or know someone who is?",
-        "answer": "If you or someone you know is in danger, you should contact the police. Additional information and support can be found at websites like www.respect.gov.au and www.1800respect.org.au."
+        "answer": "If in danger, contact the police. For more support and information, visit websites like www.respect.gov.au and www.1800respect.org.au."
     },
     {
         "question": "Who controls road and traffic rules in Australia?",
@@ -1087,7 +1059,7 @@ const jsonData = [
     },
     {
         "question": "What are some strict traffic laws in Australia?",
-        "answer": "Traffic laws in Australia are stringent. It's illegal to drive after taking drugs or if you are above the blood alcohol limit. Additionally, using a hand-held mobile device while driving is against the law."
+        "answer": "Australia has strict traffic laws. It's illegal to drive under the influence of drugs or over the blood alcohol limit, and using a hand-held mobile device while driving is also prohibited."
     },
     {
         "question": "What values are central to the Australian community?",
@@ -1104,10 +1076,6 @@ const jsonData = [
     {
         "question": "How does Australian citizenship relate to these values?",
         "answer": "Australian citizenship involves living out these values in everyday life and in local communities. Understanding and respecting these values is crucial for all Australian citizens."
-    },
-    {
-        "question": "What is the Rule of Law?",
-        "answer": "The Rule of Law is a principle that ensures all Australians are equal in relation to the law and that no person or group is above the law."
     },
     {
         "question": "How are Australians protected by the law?",
@@ -1139,27 +1107,27 @@ const jsonData = [
     },
     {
         "question": "What does freedom of speech mean in Australia?",
-        "answer": "Freedom of speech in Australia allows individuals to express their ideas freely as long as it is within the boundaries of the law. This includes the ability to discuss and share thoughts on various topics through various mediums."
+        "answer": "Freedom of speech in Australia allows individuals to express their ideas freely within legal boundaries. This encompasses discussing and sharing thoughts on various topics through various mediums."
     },
     {
         "question": "Can Australians peacefully protest against the government?",
-        "answer": "Yes, Australians have the right to engage in peaceful protests against government actions. Peaceful public protests are an integral part of democracy and are tolerated within the legal framework."
+        "answer": "Australians have the right to peaceful protests against government actions, which are an integral part of democracy and allowed within the legal framework."
     },
     {
         "question": "Are there any limitations to freedom of speech in Australia?",
-        "answer": "Yes, there are limitations to freedom of speech in Australia. Promoting violence against individuals or groups based on characteristics like culture, ethnicity, religion, or background is not acceptable and is against Australian values and the law. False allegations and encouraging lawbreaking are also illegal."
+        "answer": "Freedom of speech in Australia has limits. Promoting violence against individuals or groups based on characteristics like culture, ethnicity, religion, or background is illegal. False allegations and inciting lawbreaking are also prohibited."
     },
     {
         "question": "What is freedom of association in Australia?",
-        "answer": "Freedom of association in Australia means that individuals are free to join or leave any group voluntarily, as long as it's within the bounds of the law. This includes the ability to join legal organizations like political parties, trade unions, religious groups, and social organizations."
+        "answer": "Freedom of association in Australia permits individuals to voluntarily join or leave groups within legal boundaries, including organizations like political parties, trade unions, religious groups, and social organizations."
     },
     {
         "question": "Can Australians gather for protests or public demonstrations?",
-        "answer": "Yes, Australians are allowed to gather for protests or demonstrations, including those aimed at government actions or organizational decisions. However, these gatherings must be peaceful, not cause harm to people or property, and remain within the confines of the law."
+        "answer": "Australians have the right to protest or assemble, even against government actions or organizational decisions, but these gatherings must be peaceful, not harm people or property, and adhere to the law."
     },
     {
         "question": "What is the stance of Australia on religious freedom?",
-        "answer": "Australia upholds the freedom of religion, allowing individuals to choose and follow their preferred faith. There is no official national religion in Australia, and the government treats all citizens equally regardless of their religion. However, religious practices must adhere to Australian laws."
+        "answer": "Australia respects religious freedom, permitting individuals to choose and practice their faith. There is no official national religion, and the government treats all citizens equally regardless of their religion. However, religious practices must align with Australian laws."
     },
     {
         "question": "Are religious laws legally enforceable in Australia?",
@@ -1167,15 +1135,11 @@ const jsonData = [
     },
     {
         "question": "Can individuals practice polygamy or forced marriage in Australia?",
-        "answer": "No, practicing polygamy (having multiple spouses simultaneously) and forced marriage are against the law in Australia. Engaging in such practices can lead to severe legal consequences, including imprisonment."
+        "answer": "Polygamy (having multiple spouses simultaneously) and forced marriage are illegal in Australia, and involvement in such practices can result in significant legal consequences, including imprisonment."
     },
     {
         "question": "s religious intolerance accepted in Australian society?",
         "answer": "No, religious intolerance is not accepted in Australian society. The country values equal opportunity for all individuals, regardless of their ethnicity or religion. People are encouraged to pursue their goals and interests, provided they are in accordance with Australian law."
-    },
-    {
-        "question": "How are individuals of different ethnicities and religions treated in Australia?",
-        "answer": "In Australia, all individuals are entitled to equal opportunity regardless of their ethnicity or religion. The country values diversity and encourages inclusivity, as long as individuals abide by Australian law in their pursuits."
     },
     {
         "question": "How does Australian society view the equality of all individuals?",
@@ -1183,11 +1147,11 @@ const jsonData = [
     },
     {
         "question": "Are there laws in place to protect individuals from discrimination in Australia?",
-        "answer": "Yes, Australia has established various laws to prevent individuals from being treated unfairly or differently based on their backgrounds. These laws ensure that people from different walks of life are treated equally under the law."
+        "answer": "Australia has enacted laws to prevent unfair treatment based on background, ensuring equal treatment for people from diverse backgrounds under the law."
     },
     {
         "question": "Does Australia provide preferential treatment based on background or beliefs?",
-        "answer": "No, the Australian legal system does not allow preferential treatment based on factors such as religion. The law is applied uniformly to ensure fairness and equal treatment for all individuals, regardless of their faith."
+        "answer": "The Australian legal system does not allow preferential treatment based on religion and applies the law uniformly to ensure fairness and equal treatment for all individuals, regardless of their faith."
     },
     {
         "question": "What is the stance of Australian law on marriage?",
@@ -1195,15 +1159,15 @@ const jsonData = [
     },
     {
         "question": "Do men and women have equal rights in Australia?",
-        "answer": "Yes, both men and women have equal rights in Australia. They are provided with equal opportunities to pursue their goals, access education and employment, participate in elections, stand for public office, and serve in institutions like the Australian Defence Force and the police force."
+        "answer": "In Australia, both men and women enjoy equal rights. They have equal opportunities for education, employment, political participation, and service in institutions like the Australian Defence Force and the police force."
     },
     {
         "question": "Is gender-based discrimination prohibited in Australia?",
-        "answer": "Yes, it is against the law to discriminate against an individual based on their gender in Australia. The legal framework ensures that women and men are treated equally in various aspects, including employment opportunities and other areas of society."
+        "answer": "Discrimination based on gender is illegal in Australia, and the legal framework mandates equal treatment for women and men in various aspects, including employment opportunities and society at large."
     },
     {
         "question": "Are individuals selected for jobs solely based on merit in Australia?",
-        "answer": "Yes, Australia prioritizes merit-based selection for job opportunities. An individual's qualifications and skills are the determining factors for job placement. It is not permissible to discriminate against a candidate based on their gender; the best-qualified candidate is selected."
+        "answer": "Australia emphasizes merit-based job selection, where qualifications and skills determine placement. Gender discrimination is not allowed, ensuring the most qualified candidate is chosen."
     },
     {
         "question": "What rights do both men and women have in Australia regarding personal matters?",
@@ -1211,7 +1175,7 @@ const jsonData = [
     },
     {
         "question": "Is divorce allowed in Australia?",
-        "answer": "Yes, divorce is acceptable in Australia. Either a husband or a wife has the right to apply for a Ydivorce in the courts, even if the other spouse wishes to continue the marriage."
+        "answer": "Divorce is allowed in Australia. Either spouse can apply for divorce in court, even if the other spouse wishes to continue the marriage."
     },
     {
         "question": "What is the principle of a 'fair go' in Australian society?",
@@ -1223,7 +1187,7 @@ const jsonData = [
     },
     {
         "question": "Are migrants in Australia given the opportunity to succeed?",
-        "answer": "Yes, many new migrants in Australia have achieved success in various fields, including business, professions, the arts, public service, and sports, through hard work and enterprise. Australia provides opportunities for migrants to pursue their goals and become leaders in their chosen fields."
+        "answer": "Many new migrants in Australia have achieved success in various fields like business, the arts, public service, and sports through hard work and enterprise. Australia offers opportunities for migrants to pursue their goals and become leaders in their chosen fields."
     },
     {
         "question": "What does mutual respect and tolerance mean in Australia?",
@@ -1235,19 +1199,19 @@ const jsonData = [
     },
     {
         "question": "How does Australia view the actions of the police?",
-        "answer": "In Australia, the lawful actions of the police are expected to be supported by the public. People are encouraged to obey lawful requests from the police, as part of the commitment to following the law."
+        "answer": "In Australia, public support is expected for lawful police actions, and individuals are encouraged to comply with lawful police requests as part of their commitment to abiding by the law."
     },
     {
         "question": "What values are associated with mutual respect and tolerance in Australia?",
-        "answer": "Australia values the principles of mutual respect and tolerance, which involve listening to others, respecting their views and opinions, and being tolerant of differences even when there are disagreements. Racism is strongly condemned in Australia, including acts such as creating or sharing racially offensive material and making racially abusive comments in public places or at sporting events."
+        "answer": "Australia upholds mutual respect and tolerance, which includes listening to others, respecting their views, and being tolerant of differences despite disagreements. Racism, such as creating or sharing racially offensive material and making abusive comments in public or at sporting events, is strongly condemned in the country."
     },
     {
         "question": "What is the expectation from Australian citizens regarding making a contribution to the community?",
-        "answer": "Australian citizens are expected to fully participate in the nation's life and community. They should be ready to fulfill their responsibilities as citizens, including making a contribution to the community. This includes efforts to support themselves and their families when they are able to do so."
+        "answer": "Australian citizens are expected to actively engage in the nation's life and community, fulfilling their citizenship duties, including contributing to the community and supporting themselves and their families when capable."
     },
     {
         "question": "How do Australians demonstrate compassion for those in need?",
-        "answer": "Australians value 'mateship' and help each other in times of need. This can involve acts of kindness such as taking a meal to an elderly neighbor, providing transportation to a friend's medical appointment, or visiting someone who is sick, frail, or lonely. Australia has a strong tradition of community service and volunteering as a way to support each other and strengthen the community."
+        "answer": "Australians value 'mateship' and assist each other in times of need. This includes acts like taking meals to elderly neighbors, providing rides to medical appointments, or visiting the sick or lonely. Community service and volunteering are integral to Australia's tradition of mutual support and community strengthening."
     },
     {
         "question": "Why is learning English important for people living in Australia?",
@@ -1255,11 +1219,11 @@ const jsonData = [
     },
     {
         "question": "What responsibilities do Australians have to help protect society?",
-        "answer": "Australians have a responsibility to help protect society. For instance, if someone suspects that a friend or neighbor may be planning to commit a serious crime, they should report it to Australian government authorities promptly. Similarly, if someone witnesses or has knowledge of a child being abused, they should report it to the police for investigation. Australia does not tolerate online abuse or cyber abuse, and many forms of cyber abuse are illegal."
+        "answer": "Australians have a responsibility to protect society. For instance, if someone suspects a friend or neighbor is planning a serious crime, they should promptly report it to government authorities. Likewise, witnessing or knowing about child abuse should be reported to the police for investigation. Australia does not tolerate online or cyber abuse, and many forms of it are illegal."
     },
     {
         "question": "What does loyalty to Australia mean for Australian citizens?",
-        "answer": "In the citizenship pledge, Australian citizens pledge their loyalty to Australia and its people. While Australian citizens may hold dual or multiple citizenships, they must follow all Australian laws at all times, even when they are overseas. Loyalty to Australia is based on shared obligations not to undermine Australia's interests and security. For example, activities such as sharing official government secrets on social media or promoting distrust and fear of an ethnic community can damage Australian community relations and undermine the nation's interests."
+        "answer": "In the citizenship pledge, Australians pledge loyalty to their country and its people. While dual citizenship is allowed, citizens must always adhere to Australian laws, even when abroad. Loyalty is about shared obligations, including not undermining Australia's interests and security. For instance, actions like sharing government secrets on social media or promoting distrust in ethnic communities can harm community relations and national interests."
     }
 ];
 
